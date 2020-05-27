@@ -55,3 +55,9 @@ end
 ![картинка1](https://github.com/Rustam-Sibagatullin/dz24/blob/master/dev%20tap.JPG "iper tun mode")
 
 
+
+## Между двумя виртуалками поднять vpn в режим -tup
+
+в conf файлах tap меняем на tup.  
+![картинка2](https://github.com/Rustam-Sibagatullin/dz24/blob/master/dev%20tun.JPG)
+
