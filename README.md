@@ -1,5 +1,7 @@
 # Домашнее задание: VPN
 
+***
+
 ##  Между двумя виртуалками поднять vpn в режим -tun
 
 созададим Vgarantfile, согалсно методичке, котрый автоматизирует сборку:  
@@ -66,3 +68,6 @@ end
 
 Результат:
 ![картинка3](https://github.com/Rustam-Sibagatullin/dz24/blob/master/dev%20tun_1.JPG "iper tup mode")
+
+
+***
