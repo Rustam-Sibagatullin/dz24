@@ -51,7 +51,7 @@ end
 на серевере заускаем `iperf3 -s &`  
 на клиенте запускаем `iperf3 -c 10.10.10.1 -t 40 -i 5`
 
-Резльтат:
+Результат:
 ![картинка1](https://github.com/Rustam-Sibagatullin/dz24/blob/master/dev%20tap.JPG "iper tun mode")
 
 
